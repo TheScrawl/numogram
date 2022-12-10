@@ -46,6 +46,6 @@ def quasiphonize(num):
     num = num.replace("6", "tch")
     num = num.replace("7", "pb")
     num = num.replace("8", "mnm")
-    num = num.replace("9", "gl")
+    num = num.replace("9", "tn")
     print(num)
     return num
